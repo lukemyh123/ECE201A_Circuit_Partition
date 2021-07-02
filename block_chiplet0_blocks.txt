@@ -1,0 +1,2 @@
+core core core core core core core bus_mux bus_mux bus_mux bus_mux bus_mux bus_mux bus_mux priv_mem priv_mem priv_mem priv_mem priv_mem priv_mem priv_mem shmem shmem 
+600 358

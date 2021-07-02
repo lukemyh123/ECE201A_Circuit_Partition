@@ -1,0 +1,2 @@
+core core core core core core core master_crossbar bus_mux bus_mux bus_mux bus_mux bus_mux bus_mux bus_mux priv_mem priv_mem priv_mem priv_mem priv_mem priv_mem priv_mem router shmem shmem 
+1524 796
